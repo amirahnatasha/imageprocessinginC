@@ -1,6 +1,7 @@
 # Image Processing using C
 Simple image processing algorithms in C.
 
+
 #### List of algorithms for image processing
 * Alpha blending
 * Embossing

@@ -1,5 +1,5 @@
 # Image Processing using C
-These are some of the codes for simple image processing using C.
+Simple image processing algorithms in C.
 
 #### List of algorithms for image processing
 * Alpha blending
